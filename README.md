@@ -40,7 +40,20 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### Featured work
+### Independent projects
+
+| Project | What I built | Where to see it |
+| --- | --- | --- |
+| Gymawy | A fitness app with an exercise library, saved routines, guided set tracking, and workout history. | [App Store](https://apps.apple.com/eg/app/id6826830325) · [Web app](https://gymawy-lake.vercel.app/app) |
+| ScanQR | An on-device QR and barcode toolkit with scanning, code generation, searchable history, and inventory collections. | [App Store](https://apps.apple.com/eg/app/id6829267695) |
+| Masaha | A storage explorer for macOS, iPhone, and Android with space maps, large-file discovery, and verified duplicate detection. | [Project gallery](https://ahmed-elsherif-portfolio.vercel.app/) · [Support repository](https://github.com/AhmedShehata5/masaha-support) |
+| Meneen | A bilingual transit app with community-contributed directions, route search, and saved journeys. | [Project gallery](https://ahmed-elsherif-portfolio.vercel.app/) |
+| Seyantak | An offline maintenance planner with service history, recurring schedules, and local reminders. | [Project gallery](https://ahmed-elsherif-portfolio.vercel.app/) |
+| TechMind | An offline study workspace with editable technology roadmaps, topic notes, review cards, and focus sessions. | [Project gallery](https://ahmed-elsherif-portfolio.vercel.app/) |
+| MailMind | A native inbox prototype with message search, an attention dashboard, and an explainable priority engine. | [Project overview](https://ahmed-elsherif-portfolio.vercel.app/) |
+| Khotwa | An Arabic-first web planner for daily English practice, with checklists, notes, and weekly progress. | [Project overview](https://ahmed-elsherif-portfolio.vercel.app/) |
+
+### Public code samples
 
 | Project | What it shows |
 | --- | --- |
